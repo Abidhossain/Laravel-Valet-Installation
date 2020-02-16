@@ -1,3 +1,4 @@
+Laravel Valet
 1.sudo apt get update 
 2.sudo apt install curl git unzip
 3.sudo apt install nginx
