@@ -1,6 +1,6 @@
 Laravel Valet & Nginx in UBUNTU OS
 
-1.sudo apt get update 
+1.sudo apt-get update 
 
 2.sudo apt install curl git unzip
 
