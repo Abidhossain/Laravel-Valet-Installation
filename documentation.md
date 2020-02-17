@@ -29,7 +29,7 @@ Laravel Valet & Nginx in UBUNTU OS
 
 14.composer global require cpriego/valet-linux
 
-15.nano ~/.profile
+15.nano ~/.profile (inside console PATH="$HOME/.composer/vendor/bin:$PATH")
 
 16.source ~/.profile
 
