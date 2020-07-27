@@ -6,7 +6,7 @@ Laravel Valet & Nginx in UBUNTU OS
 
 3.`sudo apt install nginx`
 
-4.`sudo apt install net.tools`
+4.`sudo apt install net-tools`
 
 5.`ifconfig and check ip`
 
