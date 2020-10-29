@@ -29,9 +29,9 @@ Laravel Valet & Nginx in UBUNTU OS
 
 14.`composer global require cpriego/valet-linux`
 
-15.`nano ~/.profile` (inside console after `fi` `PATH="$HOME/.composer/vendor/bin:$PATH"`)
+15.`nano ~/.bashrc` (inside console after `fi` `PATH="$HOME/.config/composer/vendor/bin:$PATH"`)
 
-16.`source ~/.profile`
+16.`source ~/.bashrc`
 
 17.`sudo apt install network-manager libnss3-tools jq xsel`
 
