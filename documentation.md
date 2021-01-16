@@ -35,9 +35,9 @@ Laravel Valet & Nginx in UBUNTU OS
 
 17.`sudo apt install network-manager libnss3-tools jq xsel`
 
-18.`valet install`
+18.` https://cpriego.github.io/valet-linux/     then run valet install`
 
-18.`mkdir /media/userName/driveName/folderName`
+19.`mkdir /media/userName/driveName/folderName`
 
 19.`cd /media/userName/driveName/folderName`
 
