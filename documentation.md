@@ -44,4 +44,9 @@ Laravel Valet & Nginx in UBUNTU OS
 20.`pwd`
 
 21.`valet park`
+22. `sudo apt install php-mysql mysql-server mysql-client`
+23. `sudoALTER USER 'root'@'localhost' IDENTIFIED WITH caching_sha2_password BY 'password';
+ mysql`
+
+24. `exit`
 
