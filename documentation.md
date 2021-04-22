@@ -25,7 +25,7 @@ Laravel Valet & Nginx in UBUNTU OS
 
 12.`composer` (check composer here)
 
-13.`sudo chomd -R 777 ~/.composer` (if directory `not found` don't worry just chill and create a folder into `home` directory named `.composer` )
+13.`sudo chmod -R 777 ~/.composer` (if directory `not found` don't worry just chill and create a folder into `home` directory named `.composer` )
 
 14.`composer global require cpriego/valet-linux`
 
