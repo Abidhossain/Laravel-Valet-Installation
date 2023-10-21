@@ -10,6 +10,8 @@ Laravel Valet & Nginx in UBUNTU OS
 
 `ifconfig and check ip`
 
+`sudo apt install --no-install-recommends php8.1`
+
 `sudo apt install php-fpm`
 
 `sudo apt install php-mbstring php-xml php-zip php-curl`
